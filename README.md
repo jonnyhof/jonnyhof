@@ -1,4 +1,4 @@
-![Header](https://github.com/jonnyhof/jonnyhof/blob/main/images/Github%20README%20header.pdf "Header")
+<header src="https://github.com/jonnyhof/jonnyhof/blob/main/images/Github%20README%20header.pdf"/>
 
 ### Hi there 👋
 
