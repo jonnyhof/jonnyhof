@@ -44,9 +44,16 @@ The program is 10 months, and requires I complete cumulative projects and blog p
 
 [![Flatiron Phase 1 Project](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=phase1_project)](https://github.com/jonnyhof/phase1_project)
 
+[![King County Housing Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=kings_county_housing_analysis)](https://github.com/jonnyhof/kings_county_housing_analysis)
+
+
 ### Other Projects
 
 [![Global Temperature Switchpoint Regression](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=global_temperature_switchpoint_analysis)](https://github.com/jonnyhof/global_temperature_switchpoint_analysis)
+
+[![GRB Gaussian Mixture Model](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=GRB_gaussian_mixture_model)](https://github.com/jonnyhof/GRB_gaussian_mixture_model)
+
+
 
 
 <!-- Links to your social media accounts -->
