@@ -43,7 +43,6 @@ The program is 10 months, and requires I complete cumulative projects and blog p
 ### &#x1f4c8; Flatiron School Projects
 
 [![Flatiron Phase 1 Project](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=phase1_project)](https://github.com/jonnyhof/phase1_project)
-
 [![King County Housing Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=kings_county_housing_analysis)](https://github.com/jonnyhof/kings_county_housing_analysis)
 
 
