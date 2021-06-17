@@ -34,6 +34,7 @@ The program is 10 months, and requires I complete cumulative projects and blog p
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JSON-informational?style=flat&logo=JSON&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-geoJSON-informational?style=flat&logo=geoJSON&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Adobe_CC-informational?style=flat&logo=adobe-creative-cloud&logoColor=white&color=2bbc8a)
 
