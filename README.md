@@ -14,7 +14,7 @@ You can find me on [LinkedIn][2] and [Instagram][1]. I am also available to cont
 
 I am currently enrolled in Flatiron School's online Data Science Bootcamp program, translating my knowledge in science and statistics into coding skills. 
 
-The program is 10 months, and requires I complete cumulative projects and blog posts after each phase. My Flatiron project repositories are stored here on my [GitHub](https://github.com/jonnyhof); they are also pinned at the bottom of this README. My blog posts will be uploaded to my page on [Medium](https://jonnyhofmeister.medium.com/). These will be added to and updated every couple months as I move through the course.
+The program is 10 months (finishing in December), and requires I complete cumulative projects and blog posts after each phase. My Flatiron project repositories are stored here on my [GitHub](https://github.com/jonnyhof); they are also pinned at the bottom of this README. My blog posts will be uploaded to my page on [Medium](https://jonnyhofmeister.medium.com/). These will be added to and updated every couple months as I move through the course.
 
 *******
 
