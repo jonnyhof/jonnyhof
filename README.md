@@ -4,7 +4,7 @@
 
 My name is Jonny Hofmeister and I am a Data Science student at Flatiron School coming from a background in Applied Physics at the University of Oregon 🦆
 
-I currently live in Portland, Oregon and attend Flatiron School Online. Outside of learning data science and coding, I enjoy photography, biking, hiking, and staying active! ⛰ 🚲 📷 ⛷ 🛹
+I currently live in Portland, Oregon and attend Flatiron School Online. Outside of learning data science and coding, I enjoy photography, biking, hiking, skating, and staying active! ⛰ 🚲 📷 ⛷ 🛹
 
 You can find me on [LinkedIn][2] and [Instagram][1]. I am also available to contact through [Email](mailto:jonny.hofmeister@gmail.com).
 
