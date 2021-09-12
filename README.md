@@ -43,7 +43,7 @@ The program is 10 months (finishing in December), and requires I complete cumula
 
 ### &#x1f4c8; Flatiron School Projects
 [![King County Housing Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=kings_county_housing_analysis)](https://github.com/jonnyhof/kings_county_housing_analysis)
-[![Tanzanian Waterpoint Classification](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=tanzanian_water_well_classification)](https://github.com/jonnyhof/tanzanian_water_well_classification)
+[![Tanzanian Waterpoint Classification](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=tanzanian_waterpoint_classification)](https://github.com/jonnyhof/tanzanian_waterpoint_classification)
 [![Flatiron Phase 1 Project](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=phase1_project)](https://github.com/jonnyhof/phase1_project)
 
 
