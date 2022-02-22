@@ -2,19 +2,19 @@
 
 ## Hello there 👋
 
-My name is Jonny Hofmeister and I am a Data Science student at Flatiron School coming from a background in Applied Physics at the University of Oregon 🦆
+My name is Jonny Hofmeister and I am a Jr. Data Scientist with Feasible, Inc using ultrasound technology and machine learning to advance battery production.  My brackground is in Applied Physics at the University of Oregon 🦆 and after graduation I did a Data Science Bootcamp with Flatiron School.
 
-I currently live in Portland, Oregon and attend Flatiron School Online. Outside of learning data science and coding, I enjoy photography, biking, hiking, skating, and staying active! ⛰ 🚲 📷 ⛷ 🛹
+I am from Portland, Oregon, but recently move to Emeryville/Oakland. Outside of learning data science and coding, I enjoy photography, biking, hiking, skating, and staying active! ⛰ 🚲 📷 ⛷ 🛹
 
 You can find me on [LinkedIn][2] and [Instagram][1]. I am also available to contact through [Email](mailto:jonny.hofmeister@gmail.com).
 
 **********
 
-### 🌱 Current Eduaction and Projects
+### 🌱 Eduaction and Projects
 
-I am currently enrolled in Flatiron School's online Data Science Bootcamp program, translating my knowledge in science and statistics into coding skills. 
+I graduated from the University of Oregon in 2019 with a degree in Applied Physics. In 2021 I attended Flatiron School's online Data Science Bootcamp.
 
-The program is 10 months (finishing in December), and requires I complete cumulative projects and blog posts after each phase. My Flatiron project repositories are stored here on my [GitHub](https://github.com/jonnyhof); they are also pinned at the bottom of this README. My blog posts will be uploaded to my page on [Medium](https://jonnyhofmeister.medium.com/). These will be added to and updated every couple months as I move through the course.
+Feel free to check out some of myt projects from the bootcamp and undergrad I have here on GitHub. I also have wrote a couple aricles on Medium for Towards Data Science - check those out here [Medium](https://jonnyhofmeister.medium.com/).
 
 *******
 
