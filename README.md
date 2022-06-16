@@ -2,9 +2,9 @@
 
 ## Hello there 👋
 
-My name is Jonny Hofmeister and I am a Jr. Data Scientist with Feasible, Inc using ultrasound technology and machine learning to advance battery production.  My brackground is in Applied Physics at the University of Oregon 🦆 and after graduation I did a Data Science Bootcamp with Flatiron School.
+My name is Jonny Hofmeister and I am a Jr. Data Scientist with Liminal Insights, Inc using ultrasound technology and machine learning to advance battery production.  My brackground is in Applied Physics at the University of Oregon 🦆 and after graduation I did a Data Science Bootcamp with Flatiron School.
 
-I am from Portland, Oregon, but recently move to Emeryville/Oakland. Outside of learning data science and coding, I enjoy photography, biking, hiking, skating, and staying active! ⛰ 🚲 📷 ⛷ 🛹
+I am from Portland, Oregon, but recently relocated to Emeryville/Oakland. Outside of learning data science and coding, I enjoy photography, biking, hiking, skating, and staying active! ⛰ 🚲 📷 ⛷ 🛹
 
 You can find me on [LinkedIn][2] and [Instagram][1]. I am also available to contact through [Email](mailto:jonny.hofmeister@gmail.com).
 
