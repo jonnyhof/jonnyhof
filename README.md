@@ -42,11 +42,11 @@ Feel free to check out some of myt projects from the bootcamp and undergrad I ha
 
 
 ### &#x1f4c8; Flatiron School Projects
-[![Human Activity Recognition](https://github.com/jonnyhof/human_activity_recognition)
-[![X-Ray Image Classification](https://github.com/jonnyhof/xray_image_classification)
+[![Human Activity Recognition](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=human_activity_recognition)](https://github.com/jonnyhof/human_activity_recognition)
+[![X-Ray Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=xray_image_classification)](https://github.com/jonnyhof/xray_image_classification)
 [![King County Housing Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=kings_county_housing_analysis)](https://github.com/jonnyhof/kings_county_housing_analysis)
 [![Tanzanian Waterpoint Classification](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=tanzanian_waterpoint_classification)](https://github.com/jonnyhof/tanzanian_waterpoint_classification)
-[![Lorenz Animation](https://github.com/jonnyhof/lorenz_animation)
+[![Lorenz Animation](https://github-readme-stats.vercel.app/api/pin/?username=jonnyhof&repo=lorenz_animation)](https://github.com/jonnyhof/lorenz_animation)
 
 
 ### Other Projects
